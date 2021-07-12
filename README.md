@@ -13,3 +13,8 @@ _При выполнении использовались следующие б�
 1) amocrm-php (установка через composer: "composer require dotzero/amocrm") - для работы с API amoCRM.
 2) faker-php (установка через composer: "composer require fzaninotto/faker") - для генерации случайных данных.
 3) google/apiclient (установка через composer: "composer require google/apiclient:^2.0") - для работы с API Google Sheets.
+
+***
+
+Итоговая таблица:
+<https://docs.google.com/spreadsheets/d/1Gjmq1dpaTgsayR7qzftDQukmjWNWBp8bNfktrCFZU30/edit#gid=0>
