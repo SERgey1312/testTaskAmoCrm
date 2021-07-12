@@ -1,0 +1,8 @@
+{
+    "require": {
+        "dotzero/amocrm": "^0.3.29",
+        "fzaninotto/faker": "^1.9",
+      "ext-curl": "*",
+        "google/apiclient": "2.10"
+    }
+}
